@@ -1,6 +1,6 @@
 # Salary-Predictor
 
-## Salary Predctor: Univariate Linear Regression Project
+## Salary Predictor: Univariate Linear Regression Project
 
 This dataset is derived from [Kaggle](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
 
